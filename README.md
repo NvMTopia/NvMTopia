@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NvMTopia
+# 👋 Hi, I’m @NvMTopia
 - 👀 I’m interested in Growtopia Project
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything Growtopia related
