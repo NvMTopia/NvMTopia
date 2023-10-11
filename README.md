@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-@zynaxservices on Telegram
+@zentogt on Telegram
 <p align="left">
 </p>
 
