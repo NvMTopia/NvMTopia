@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **anything Growtopia related**
 
 <h3 align="left">Connect with me:</h3>
-@zentogt on Telegram
+@NggxGT
 <p align="left">
 </p>
 
